@@ -10,4 +10,5 @@ spec:
   type: service
   lifecycle: production
   owner: user:guest
+  aaa: yyy
   system: audio-playback
